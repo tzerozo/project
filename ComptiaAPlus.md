@@ -1,4 +1,12 @@
 
+### Troubleshooting Methodology
+  1. Identify the problem
+  2. Establish a theory of probably cause (question the obvious: research knowledge base/internet)
+  3. Test theory to determine the cause
+  4. Establish a plan of action to resolve problem and implement solution
+  5. verify full system functionality and implement preventive measures
+  6. document finding/lesson learnt, actions, outcomes
+
 
 ### Common Ports
 <ul>
