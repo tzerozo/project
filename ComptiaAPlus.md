@@ -1,4 +1,29 @@
 
+# Coursera: CompTIA a+ Network by CompTIA
+
+1. Windows Admin Fundamentals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Troubleshooting Methodology
   1. Identify the problem
   2. Establish a theory of probably cause (question the obvious: research knowledge base/internet)
