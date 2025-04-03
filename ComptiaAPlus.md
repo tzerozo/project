@@ -9,10 +9,13 @@
 
 
 ### Common Ports
+
+Non-ephemeral ports: 0 - 1023
+Ephemeral ports: 1024 - 65535
 <ul>
   <li>- FTP File Transfer Protocol     &nbsp;   TCP 20(Active mode data) TCP21(Control) &nbsp;  Transfer files between systems </li>
   <li>- SSH Secure Shell                &nbsp;  TCP 22                                 &nbsp;   Login to devices remotely via control access</li>
-  <li>- TCP Telecommunication network    &nbsp; TCP 23                                &nbsp;    Login to devices remotely via control access </li>
+  <li>- TELecommunication NETwork     &nbsp; TCP 23                                &nbsp;    Login to devices remotely via control access </li>
   <li> - SMTP simple mail transfer prot  &nbsp;  TCP 25                                &nbsp;    Send mail from device to mail server</li>
   <li>- DNS Domain Name System          &nbsp;  UDP 53                                 &nbsp;   Converts domain name to IP address (www.github.com to 10.20.30.40)</li>
   <li>- DHCP dynamic host config port   &nbsp;  UDP 67  UDP68                          &nbsp;   Auto config IP address, Subnet mask, Others</li>
@@ -27,4 +30,5 @@
   <li>- RDP remote desktop protocol     &nbsp;  TCP 3389                              &nbsp;    Share desktop from remote location (Remote Desktop Connection) </li>
 </ul>
 
-### IP 
+### DNS
+  1. 
